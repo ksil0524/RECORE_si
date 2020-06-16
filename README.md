@@ -12,7 +12,7 @@
 #### IDE : Eclipse
 #### Server : Aphache Tomcat 9.0
 #### Communication Tool : Github, Slack
-#### OS : Chrome
+#### OS : Window
 #
 ### < 프로그램 소개 >
 #### 업사이클링 브랜드와 그 브랜드의 제품들을 고객들에게 소개하고 직접 사이트 내에서 제품 구매가 가능하다.
